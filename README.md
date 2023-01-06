@@ -2,6 +2,7 @@ Link site for HGMServers
 
 Main Changes 
 > Changed CSS SVG From [Font Awesome](https://github.com/FortAwesome/Font-Awesome) to [BoxIcons](https://github.com/atisawd/boxicons)
+> -
 > Added Links for HGMServers
 
 
